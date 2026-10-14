@@ -15,7 +15,7 @@
 以下のコマンドをターミナルで実行し、Skill ファイルをローカルに取得します。
 
 ```bash
-git clone https://github.com/alicialin0420/moomoo-comment-sentiment.git
+git clone https://github.com/hayashi0420/moomoo-comment-sentiment.git
 ```
 
 ### Step 2: Skill ディレクトリへの配置
